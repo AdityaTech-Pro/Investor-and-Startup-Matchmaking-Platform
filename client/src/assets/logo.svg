@@ -1,0 +1,17 @@
+<svg width="610" height="444" viewBox="0 0 610 444" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="610" height="444" fill="none"/>
+
+  <!-- Chat bubble -->
+  <g transform="translate(50, 162)">
+    <rect x="0" y="0" width="140" height="120" rx="30" fill="#A78BFA"/>
+    <circle cx="35" cy="60" r="8" fill="white"/>
+    <circle cx="70" cy="60" r="8" fill="white"/>
+    <circle cx="105" cy="60" r="8" fill="white"/>
+    <path d="M70,120 L85,100 H55 L70,120 Z" fill="#A78BFA"/>
+  </g>
+
+  <!-- Chatiao text centered vertically -->
+  <text x="220" y="222" font-family="Segoe UI, sans-serif" font-size="90" fill="white" font-weight="600" dominant-baseline="middle">
+    Chatiao
+  </text>
+</svg>
