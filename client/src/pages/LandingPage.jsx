@@ -356,12 +356,12 @@ const LandingPage = () => {
                 <a href="" className="text-purple-400 hover:underline mt-2 block">LinkedIn</a>
               </div>
               <div className="bg-white/10 p-6 rounded-lg border border-gray-500 w-full max-w-xs">
-                <img src="" alt="Drishty Yagyavalkya " className="w-25 h-28 rounded-full mx-auto mb-4 border-2 border-purple-500" />
+                <img src="/src/assets/Drishty01_image.jpg" alt="Drishty Yagyavalkya " className="w-25 h-28 rounded-full mx-auto mb-4 border-2 border-purple-500" />
                 <h3 className="text-xl font-semibold">Drishty Yagyavalkya </h3>
                 <p className="text-purple-300">Founder & Developer</p>
                 <p className="text-gray-300 text-sm mt-2">Ideas, Code, Impact.</p>
-                <a href="mailto:suryapranav.official@gmail.com" className="text-purple-400 hover:underline mt-2 block">✉ </a>
-                <a href="" className="text-purple-400 hover:underline mt-2 block">LinkedIn</a>
+                <a href="mailto:drishuusharma06@gmail.com" className="text-purple-400 hover:underline mt-2 block">✉ drishuusharma06@gmail.com </a>
+                <a href="https://www.linkedin.com/in/drishty-yagyavalkya-b236732b8/" className="text-purple-400 hover:underline mt-2 block">LinkedIn</a>
               </div>
             </div>
           </div>
